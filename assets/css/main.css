@@ -189,6 +189,10 @@ html, body{
   padding-left:15px;
 }
 
+#homeSocialLinks a:hover{
+	text-decoration: none;
+}
+
 .icon{
   color:#aaaaaa;
   padding-left: 15px;
